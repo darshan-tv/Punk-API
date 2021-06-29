@@ -1,0 +1,24 @@
+utils/DataFormatter.java
+ utils.DataFormatter
+utils/ConfigReader.java
+ utils.ConfigReader
+verify/GetAllBeersVerify.java
+ verify.GetAllBeersVerify
+utils/Constants.java
+ utils.Constants
+pojo/GetAllBeersResponse.java
+ pojo.GetAllBeersResponse
+ pojo.GetAllBeersResponse$Amount
+ pojo.GetAllBeersResponse$BoilVolume
+ pojo.GetAllBeersResponse$Fermentation
+ pojo.GetAllBeersResponse$Hop
+ pojo.GetAllBeersResponse$Ingredients
+ pojo.GetAllBeersResponse$Malt
+ pojo.GetAllBeersResponse$MashTemp
+ pojo.GetAllBeersResponse$Method
+ pojo.GetAllBeersResponse$Temp
+ pojo.GetAllBeersResponse$Volume
+builders/GetAllBeersBuilder.java
+ builders.GetAllBeersBuilder
+api_client/GetAllBeersClient.java
+ api_client.GetAllBeersClient
